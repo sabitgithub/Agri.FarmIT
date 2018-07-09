@@ -1,0 +1,7 @@
+Present Average Land Use Coverage (%) :
+Agriculture=32-36
+Mango/Litchi Garden=23-41
+Brick Field=1
+Road=1
+Settlement=25-38
+Water Bodies=1

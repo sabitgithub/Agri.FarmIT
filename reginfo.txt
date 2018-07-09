@@ -1,0 +1,3 @@
+Waliur Rahman|01745871019|123456|male|Farmer|
+Anim Bhuiya|01734779901||bhuiyA@16|male|Farmer|
+SABit TEst|01724821120|sabit1|male|Company Representative|
